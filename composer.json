@@ -1,12 +1,12 @@
 {
-   "name": "alex.oleshkevich/fast-xml-parser",
+   "name": "igorrallik/fast-xml-parser",
    "description": "Fast SAX XML parser for PHP",
-    "homepage": "https://github.com/alex-oleshkevich/php-fast-xml-parser",
+    "homepage": "https://github.com/IgorRallo/Back-end",
     "authors": [
         {
-            "name": "Alex Oleshkevich",
-            "email": "alex.oleshkevich@gmail.com",
-            "homepage": "http://github.com/alex-oleshkevich"
+            "name": "Ihor Rallo",
+            "email": "igorrallik@gmail.comm",
+            "homepage": "https://github.com/IgorRallo/Back-end"
         }
     ],
     "type": "library",
